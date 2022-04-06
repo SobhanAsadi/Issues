@@ -4,4 +4,9 @@
 
 
 ## [ایشو فاز 0](https://github.com/AdvancedProgrammingSUT2022/Issues/issues/1)
-https://github.com/AdvancedProgrammingSUT2022/Issues/issues/1
+
+## ایشو فاز 1
+
+## ایشو فاز 2
+
+## ایشو فاز 3
