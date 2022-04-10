@@ -39,9 +39,9 @@
 
 ## تسک‌های نفر اول
 
-  **نام و نام خانوادگی:**
+  **نام و نام خانوادگی: Mohammad Lotfi**
 <details>
-  <summary>تسک مربوطه</summary>
+  <summary>کامیت نام و شماره دانشجویی در README.md</summary>
 
   <div dir="ltr" align='right'>
 
@@ -53,9 +53,9 @@
 
 ## تسک‌های نفر دوم
 
-  **نام و نام خانوادگی:**
+  **نام و نام خانوادگی: Mahdi Mohammadi**
 <details>
-  <summary>تسک مربوطه</summary>
+  <summary>کامیت نام و شماره دانشجویی در README.md</summary>
 
   <div dir="ltr" align='right'>
 
@@ -67,9 +67,9 @@
 
 ## تسک‌های نفر سوم
 
-  **نام و نام خانوادگی:**
+  **نام و نام خانوادگی: Sobhan Asadi**
 <details>
-  <summary>تسک مربوطه</summary>
+  <summary>کامیت نام و شماره دانشجویی در README.md</summary>
 
   <div dir="ltr" align='right'>
 
